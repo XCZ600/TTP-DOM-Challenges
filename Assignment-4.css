@@ -1,0 +1,24 @@
+body {
+    background-color: darkseagreen
+}
+
+.post-wrapper {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px 10px 30px;
+}
+
+.buttons {
+    align-items: stretch
+}
+.hover {
+    align-items: stretch
+}
+.form {
+    align-items: stretch
+}
+/*
+.lbutton {
+    padding: 15px 35px
+}
+*/
